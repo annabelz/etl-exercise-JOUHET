@@ -1,5 +1,1 @@
-/home/annabel-zhu/Downloads/EHD_Jouhet/phds-etl/data_pipeline/utils/__pycache__
-/home/annabel-zhu/Downloads/EHD_Jouhet/phds-etl/data_pipeline/jobs/__pycache__
-/home/annabel-zhu/Downloads/EHD_Jouhet/phds-etl/data_pipeline/jobs/__pycache__
-/home/annabel-zhu/Downloads/EHD_Jouhet/phds-etl/data_pipeline/domain/__pycache__
-/home/annabel-zhu/Downloads/EHD_Jouhet/phds-etl/data_pipeline/__pycache__
+*.pyc
